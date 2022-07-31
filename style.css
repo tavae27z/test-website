@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+h1 {
+    font-family: 'Mouse Memoirs', sans-serif; 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+p {
+    font-family: 'Square Peg', cursive;
+}
